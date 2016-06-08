@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "James Birtles <unwrittenfun@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExoZoneDev/xview-loader"
+  },
   "dependencies": {
     "htmlparser": "^1.7.7"
   }
