@@ -1,0 +1,11 @@
+{
+  "name": "xview-loader",
+  "version": "0.1.0",
+  "description": "Convert html files to a series of function calls to be used with the xView framework.",
+  "main": "index.js",
+  "author": "James Birtles <unwrittenfun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser": "^1.7.7"
+  }
+}
